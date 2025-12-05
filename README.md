@@ -175,3 +175,6 @@ Clustering
 2)Real-time API deployment for churn scores
 
 3)User dashboard for personalized insights.
+
+✍ Author
+Tapan Datta
